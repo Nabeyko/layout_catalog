@@ -135,7 +135,7 @@
   }
 
   &__button:hover {
-    border: 1px solid #00acdc;
+    border: 1px solid $button-hover-color;
     box-sizing: border-box;
     background-color: $button-hover-bgc;
     color: $button-hover-color;
